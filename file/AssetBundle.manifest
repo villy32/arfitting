@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2323575402
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 0003.ab
+      Dependencies: {}
+    Info_1:
+      Name: clothing
+      Dependencies: {}
+    Info_2:
+      Name: 0005.ab
+      Dependencies: {}
